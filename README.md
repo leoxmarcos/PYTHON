@@ -7,10 +7,10 @@
 
 ## 🏷️ Badges
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Repo Size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/PYTHON?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/PYTHON?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/PYTHON?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge&logo=checkmarx)
+![Commits](https://img.shields.io/github/commit-activity/m/YOUR_GITHUB_USERNAME/PYTHON?style=for-the-badge&color=blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)
 
 ---
 
