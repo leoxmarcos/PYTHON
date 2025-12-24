@@ -1,79 +1,40 @@
-<!-- HEADER -->
-<p align="center">
-  <!-- Animated Snake -->
-  <img src="snake.gif" alt="Animated Snake" height="120"/>
-</p>
-
-<h1 align="center">
-  🐍 <span style="color:#FFD700;">Python</span> Programs Repository
-</h1>
+# 🐍 Python AI & ML Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Programming+Repository;DSA+%7C+Problem+Solving+%7C+Mini+Projects;Consistent+Learning+%26+Daily+Commits&width=700&height=50&color=00FF9C&center=true" alt="Typing SVG"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Snake AI GIF" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-0ff?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DSA-Focused-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Practice-Daily-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Continuous-blue?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/PYTHON?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/commit-activity/m/srivastavanandani190-lang/PYTHON?style=for-the-badge"/>
-</p>
-
+Welcome to **Python AI & ML Projects**! 🚀  
+A curated collection of Python projects focused on **Artificial Intelligence**, **Machine Learning**, and **Data Science** — all powered by the flexibility of Python.  
 
 ---
 
-## 🌟 About This Repository
-
-This repository is a **complete Python learning hub** containing programs ranging from **basic concepts to advanced problem-solving and DSA**.
-
-### Ideal for:
-- 🎓 Students  
-- 💻 Beginners & Intermediate learners  
-- 🧠 Exam & interview preparation  
-- 🔁 Daily Python practice  
+## 🐍 Features
+- Implementation of classic **Machine Learning algorithms** (Regression, Classification, Clustering).  
+- **AI projects** using Python libraries like `TensorFlow`, `Keras`, `PyTorch`, and `Scikit-learn`.  
+- Fun and educational **Python automation & snake-themed mini-projects**.  
+- Clean, modular code for easy learning and experimentation.  
 
 ---
 
-## 🧩 Topics Covered
-
-### ✨ Core Python
-- Variables & Data Types  
-- Conditional Statements  
-- Loops  
-- Functions & Recursion  
-
-### ✨ Data Handling
-- Lists, Tuples, Sets, Dictionaries  
-- Strings  
-- File Handling  
-
-### ✨ Problem Solving
-- Data Structures & Algorithms  
-- Logical & Mathematical programs  
-
-### ✨ Projects
-- Mini Python Projects  
-- Utility Scripts  
+## 🛠️ Tech Stack
+- **Programming Language:** Python 3.x  
+- **Libraries & Frameworks:** 
+  - `NumPy` & `Pandas`  
+  - `Matplotlib` & `Seaborn`  
+  - `Scikit-learn`  
+  - `TensorFlow` / `Keras`  
+  - `PyTorch`  
+- **Tools:** Jupyter Notebook, VS Code  
 
 ---
 
-## 🗂️ Repository Structure
+## 🛣️ Learning Roadmap
 
-```text
-PYTHON/
-│── basics/
-│── conditionals/
-│── loops/
-│── functions/
-│── arrays/
-│── strings/
-│── file_handling/
-│── dsa/
-│── mini_projects/
-│── utils/
-└── README.md
+```mermaid
+graph LR
+A[Python Basics] --> B[Data Structures & OOP]
+B --> C[Data Analysis & Visualization]
+C --> D[Machine Learning]
+D --> E[Deep Learning & AI Projects]
+E --> F[Deploy & Optimize Models]
