@@ -1,9 +1,13 @@
 <!-- HEADER -->
 # 🐍 Python Programs Repository
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Python+Programming+Repository;DSA+%7C+Problem+Solving+%7C+Mini+Projects;Consistent+Learning+%26+Daily+Commits&width=600&height=45">
+<p align="center">
+  <img src="snake.gif" alt="Animated Snake" height="120"/>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Programming+Repository;DSA+%7C+Problem+Solving+%7C+Mini+Projects;Consistent+Learning+%26+Daily+Commits&width=700&height=50&color=00FF9C&center=true" alt="Typing SVG"/>
+</p>
 
 ## 🏷️ Badges
 
