@@ -1,0 +1,24 @@
+✅ STEP-BY-STEP: RESET & PUSH TO main
+1️⃣ Go to your project folder
+cd "C:\Users\parth\OneDrive\Desktop\PYTHON PROGRAM"
+
+2️⃣ Remove old Git history completely
+rmdir /s /q .git
+
+3️⃣ Re-initialize Git
+git init
+
+4️⃣ Create & switch to main branch
+git branch -m main
+
+5️⃣ Add all files
+git add .
+
+6️⃣ Create a NEW first commit
+git commit -m "Initial commit"
+
+7️⃣ Add GitHub remote
+git remote add origin https://github.com/leoxmarcos/PYTHON.git
+
+8️⃣ FORCE push to main (this deletes previous commits)
+git push -f -u origin main
