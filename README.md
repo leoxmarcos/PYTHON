@@ -1,20 +1,28 @@
 <!-- HEADER -->
-# 🐍 Python Programs Repository
-
 <p align="center">
+  <!-- Animated Snake -->
   <img src="snake.gif" alt="Animated Snake" height="120"/>
 </p>
+
+<h1 align="center">
+  🐍 <span style="color:#FFD700;">Python</span> Programs Repository
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python+Programming+Repository;DSA+%7C+Problem+Solving+%7C+Mini+Projects;Consistent+Learning+%26+Daily+Commits&width=700&height=50&color=00FF9C&center=true" alt="Typing SVG"/>
 </p>
 
-## 🏷️ Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-0ff?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DSA-Focused-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Practice-Daily-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Continuous-blue?style=for-the-badge"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.x-0ff?style=for-the-badge&logo=python&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-Focused-purple?style=for-the-badge)
-![Practice](https://img.shields.io/badge/Daily-Practice-orange?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Continuous-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/srivastavanandani190-lang/PYTHON?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/srivastavanandani190-lang/PYTHON?style=for-the-badge"/>
+</p>
 
 
 ---
