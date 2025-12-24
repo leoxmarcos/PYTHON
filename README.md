@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Snake AI GIF" width="350"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B070FF&center=true&vCenter=true&width=900&height=120&lines=Learning+Python+Daily;Exploring+AI+and+ML+Concepts;Building+Cool+Projects;Growing+as+a+Developer!"
+/>
+
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </p>
 
-<h1 align="center">🐍 Python AI & ML Playground</h1>
-<p align="center">
-  <em>Explore Artificial Intelligence, Machine Learning, and fun Python projects… with a twist of 🐍!</em>
-</p>
 
----
 
 ## 🚀 About This Repo
 This repository is a **collection of Python projects** focused on **AI, ML, and data science**, built to help learners and enthusiasts practice and implement algorithms in a fun and interactive way.  
