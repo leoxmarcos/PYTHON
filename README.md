@@ -17,23 +17,38 @@ Whether you want to master **Machine Learning**, experiment with **AI models**, 
 ---
 
 ## 🐍 Features
-- **Machine Learning Algorithms:** Regression, Classification, Clustering, etc.  
-- **Deep Learning & AI Projects:** Neural networks using `TensorFlow` & `PyTorch`.  
-- **Data Analysis & Visualization:** Interactive plots using `Matplotlib` & `Seaborn`.  
-- **Snake-themed Python Mini-Projects:** Fun, educational, and interactive.  
-- **Clean, modular code** to make learning faster and easier.  
+
+- 🚀 **Machine Learning Algorithms**  
+  Regression, Classification, Clustering, and other core ML techniques.
+
+- 🧠 **Deep Learning & AI Projects**  
+  Neural networks and AI models built using **TensorFlow**, **Keras**, and **PyTorch**.
+
+- 📊 **Data Analysis & Visualization**  
+  Insightful and interactive plots using **Matplotlib** and **Seaborn**.
+
+- 🎮 **Snake-Themed Python Mini Projects**  
+  Fun, educational, and interactive projects to strengthen Python fundamentals.
+
+- 🧩 **Clean & Modular Codebase**  
+  Well-structured, readable, and beginner-friendly code for faster learning.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.x  
-- **Libraries & Frameworks:**  
-  - `NumPy`, `Pandas`  
-  - `Matplotlib`, `Seaborn`  
-  - `Scikit-learn`  
-  - `TensorFlow` / `Keras` / `PyTorch`  
-- **Tools:** Jupyter Notebook, VS Code  
 
+### 📚 Libraries & Frameworks
+- `NumPy`
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
+- `Scikit-learn`
+- `TensorFlow` / `Keras`
+- `PyTorch`
+
+### 🧰 Tools & Environment
+- **Jupyter Notebook**
+- **VS Code**
 ---
 
 ## 🌟 Learning Roadmap
