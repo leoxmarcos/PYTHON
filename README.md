@@ -1,4 +1,4 @@
-<h1> 🐍🎰PYTHON🎰🐍</h1>
+<h1> <p align="center">🐍🎰PYTHON🎰🐍</p></h1>
 <p align="center">
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=B070FF&center=true&vCenter=true&width=900&height=120&lines=Learning+Python+Daily;Exploring+AI+and+ML+Concepts;Building+Cool+Projects;Growing+as+a+Developer!"
