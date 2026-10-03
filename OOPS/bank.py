@@ -1,9 +1,20 @@
 class Bank:
     def __init__(self):
-        self.balance = 0
-        self.pin = " "
+        #encapsulation->data hiding->private attributes and methods
+        self.__balance = 0
+        self.__pin = " "
 
         self.menu()
+
+    def get_pin(self):
+        return self.__pin
+    
+    def set_pin(self, pin):
+        if type(pin) == str:
+            self.__pin = pin
+            print("Pin updated successfully")
+        else:
+            print("Invalid pin format. Pin should be a string.")
 
     def menu(self):
         user_input = input("""
@@ -30,16 +41,16 @@ class Bank:
 
 
     def create_pin(self):
-        self.pin = input("Enter a new pin: ")
+        self.__pin = input("Enter a new pin: ")
         print("Pin created successfully")
         self.menu()
    
 
     def deposit(self):
         tempin = input("Enter your pin: ")
-        if tempin == self.pin:
+        if tempin == self.__pin:
             amount = float(input("Enter the amount to deposit: "))
-            self.balance += amount
+            self.__balance += amount
             print("Amount deposited successfully")
         else:
             print("Incorrect pin")
@@ -48,13 +59,13 @@ class Bank:
 
     def withdraw(self):
         tempin = input("Enter your pin: ")
-        if tempin != self.pin:
+        if tempin != self.__pin:
             print("Incorrect pin")
             return
         else:
             amount = float(input("Enter the amount to withdraw: "))
-            if amount <= self.balance:
-                self.balance -= amount
+            if amount <= self.__balance:
+                self.__balance -= amount
                 print("Amount withdrawn successfully")
             else:
                 print("Insufficient balance")
@@ -63,8 +74,8 @@ class Bank:
 
     def check_balance(self):
         tempin = input("Enter your pin: ")
-        if tempin == self.pin:
-            print(f"Your balance is: {self.balance}")
+        if tempin == self.__pin:
+            print(f"Your balance is: {self.__balance}")
         else:
             print("Incorrect pin")
         self.menu()
